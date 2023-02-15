@@ -1,0 +1,13 @@
+I created  a website for restaurant,where are products, it can be for vegetarians products and for not vegetarians
+
+Entities: products, customer,admin
+
+as a user i will be able to see products categories like for vegetarians and not
+
+as a user, i can choose the product
+
+as a user i can see the price
+
+as a user i have my id
+
+as a user i have a discounts
